@@ -2,8 +2,11 @@ The project pipeline started with
 data extraction --> data preprocessing ---> correlation ---> descrptive analysis --> sentiment analysis --> predictive analysis
 
 Data extraction, data preprocessing and correlation are done using Python
+
 Descriptive analysis and predictive analytics are done using SAS EM
+
 Sentiment analysis is done using R
+
 
 Things to take note:
 
