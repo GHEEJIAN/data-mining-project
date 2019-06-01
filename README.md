@@ -5,7 +5,8 @@ Data extraction, data preprocessing and correlation are done using Python
 Descriptive analysis and predictive analytics are done using SAS EM
 Sentiment analysis is done using R
 
-Things to take:
+Things to take note:
+
 In data extraction section,
 kindly make sure Webdriver and Selenium is installed in the machine
 kindly define the location of webdriver in the machine in the script
