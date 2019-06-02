@@ -1,5 +1,5 @@
 The project pipeline started with
-data extraction --> data preprocessing ---> correlation ---> descrptive analysis --> sentiment analysis --> predictive analysis
+data extraction --> data preprocessing ---> correlation ---> descriptive analysis --> sentiment analysis --> predictive analysis
 
 Data extraction, data preprocessing and correlation are done using Python
 
