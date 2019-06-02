@@ -11,7 +11,7 @@ Sentiment analysis is done using R
 Things to take note:
 
 In data extraction section,
-kindly make sure Webdriver and Selenium is installed in the machine
+kindly make sure Webdriver and Selenium are installed in the machine
 kindly define the location of webdriver in the machine in the script
 
 In data pre-processing, correlation and sentiment analysis,
